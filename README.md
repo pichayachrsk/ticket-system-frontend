@@ -5,8 +5,6 @@ The app expects an endpoint available at the following endpoints:
 - GET  /tickets/:id - To display ticket detail by params id
 - POST /tickets - To create ticket
 
-all features are included as the requirement.
-
 ## Getting Started
 
 First,
